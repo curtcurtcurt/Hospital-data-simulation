@@ -1,0 +1,34 @@
+to run program press run on your IDE
+
+input the desired number in menu, it should look like this
+
+--- Hospital Patient Management System ---
+1. Add New Patient
+2. Display All Patients
+3. Search Patient by ID
+4. Save Records to File
+5. Exit
+Enter your choice:
+
+after entering choice press enter to continue further in the program untiil you reach the end!
+
+
+
+SAMPLE INPUTS BELOW
+input:
+    Enter Patient ID: 140
+    Enter Name: Curtis Johnson
+    Enter Age: 20
+    Enter Gender: Male
+    Enter Diagnosis : flu
+    Enter Contact Number: 123321
+
+output:
+    ID: 140
+    Name: Curtis Johnson
+    Age: 20
+    Gender: Male
+    Diagnosis: flu
+    Contact: 123321
+
+
